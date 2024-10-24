@@ -18,7 +18,7 @@ Clone o repositório:
 
 bash  
 Copiar código  
-git clone https://github.com/seu-usuario/dio-powerbi-challenge.git  
+git clone https://github.com/nicolasaws1/aprendizadopowerBI.git  
 Abra o arquivo .pbix no Power BI Desktop.
 
 Navegue pelas páginas do relatório utilizando os botões interativos.
