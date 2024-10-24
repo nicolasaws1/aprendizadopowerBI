@@ -1,6 +1,7 @@
 # **DIO Power BI Challenge**
 
-Este repositório contém o projeto desenvolvido durante o Power BI Challenge da Digital Innovation One (DIO). O objetivo foi criar um dashboard interativo e intuitivo para análise de dados, utilizando botões de navegação para facilitar a experiência do usuário.
+Este repositório contém o projeto desenvolvido durante o Power BI Challenge da Digital Innovation One (DIO).  
+O objetivo foi criar um dashboard interativo e intuitivo para análise de dados, utilizando botões de navegação para facilitar a experiência do usuário.
 
 🛠️ Funcionalidades
 Botões de Navegação: Implementados para facilitar a navegação entre diferentes páginas do relatório.  
